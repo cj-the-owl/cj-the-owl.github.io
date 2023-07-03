@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "name": "CSS practice website",
+        "image": "#",
+        "des": "a description",
+        "netlify": "https://friendly-faun-30f8e1.netlify.app/",
+        "github": "https://github.com/cj-the-owl/CSS-Intro.git"
+    },
+    {
+        "id": 2,
+        "name": "Hulu Website",
+        "image": "#",
+        "des": "a description",
+        "netlify": "https://delightful-cendol-f68382.netlify.app/",
+        "github": "https://github.com/cj-the-owl/Html-Basics.git"
+    },
+    {
+        "id": 3,
+        "name": "JavaScript Calculator",
+        "image": "#",
+        "des": "a description",
+        "netlify": "https://elegant-bavarois-b34121.netlify.app/",
+        "github": "https://github.com/cj-the-owl/js-calculator.git"
+    },
+    {
+        "id": 4,
+        "name": "BMI Calculator",
+        "image": "#",
+        "des": "a description",
+        "netlify": "https://clever-dango-aafd0f.netlify.app/",
+        "github": "https://github.com/cj-the-owl/js-bmi-calculator.git"
+    },
+    {
+        "id": 5,
+        "name": "Bootstrap end of module project",
+        "image": "#",
+        "des": "a description",
+        "netlify": "https://zippy-kitsune-077ed6.netlify.app/",
+        "github": "https://github.com/cj-the-owl/EOMP-Portfolio.git"
+    },
+    {
+        "id": 6,
+        "name": "JavaScript end of module project",
+        "image": "#",
+        "des": "a description",
+        "netlify": "https://elaborate-marzipan-7d8fa8.netlify.app/",
+        "github": " https://github.com/cj-the-owl/EOMP-pos-website.git"
+    }
+]
