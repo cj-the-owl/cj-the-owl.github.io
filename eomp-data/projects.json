@@ -2,7 +2,7 @@
     {
         "id": 1,
         "name": "CSS practice website",
-        "image": "#",
+        "image": "https://i.postimg.cc/Qx0PfSF5/Screenshot-2023-05-10-115957.png",
         "des": "a description",
         "netlify": "https://friendly-faun-30f8e1.netlify.app/",
         "github": "https://github.com/cj-the-owl/CSS-Intro.git"
@@ -10,7 +10,7 @@
     {
         "id": 2,
         "name": "Hulu Website",
-        "image": "#",
+        "image": "https://i.postimg.cc/Prm91Tj6/Screenshot-2023-05-12-144800.png",
         "des": "a description",
         "netlify": "https://delightful-cendol-f68382.netlify.app/",
         "github": "https://github.com/cj-the-owl/Html-Basics.git"
@@ -18,7 +18,7 @@
     {
         "id": 3,
         "name": "JavaScript Calculator",
-        "image": "#",
+        "image": "https://i.postimg.cc/bv0TdwfP/Screenshot-2023-07-03-155432.png",
         "des": "a description",
         "netlify": "https://elegant-bavarois-b34121.netlify.app/",
         "github": "https://github.com/cj-the-owl/js-calculator.git"
@@ -26,7 +26,7 @@
     {
         "id": 4,
         "name": "BMI Calculator",
-        "image": "#",
+        "image": "https://i.postimg.cc/fWf61MV6/Screenshot-2023-07-03-155542.png",
         "des": "a description",
         "netlify": "https://clever-dango-aafd0f.netlify.app/",
         "github": "https://github.com/cj-the-owl/js-bmi-calculator.git"
@@ -34,7 +34,7 @@
     {
         "id": 5,
         "name": "Bootstrap end of module project",
-        "image": "#",
+        "image": "https://i.postimg.cc/ZnXYGZRB/Screenshot-2023-07-03-155244.png",
         "des": "a description",
         "netlify": "https://zippy-kitsune-077ed6.netlify.app/",
         "github": "https://github.com/cj-the-owl/EOMP-Portfolio.git"
@@ -42,7 +42,7 @@
     {
         "id": 6,
         "name": "JavaScript end of module project",
-        "image": "#",
+        "image": "https://i.postimg.cc/yxM06Mdt/Screenshot-2023-07-05-095835.png",
         "des": "a description",
         "netlify": "https://elaborate-marzipan-7d8fa8.netlify.app/",
         "github": " https://github.com/cj-the-owl/EOMP-pos-website.git"
