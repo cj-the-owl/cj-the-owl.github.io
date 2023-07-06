@@ -86,5 +86,26 @@
             "netlify": "https://elaborate-marzipan-7d8fa8.netlify.app/",
             "github": " https://github.com/cj-the-owl/EOMP-pos-website.git"
         }
+    ],
+
+    "education": [
+        {
+            "id": 1,
+            "year": 2023,
+            "des": "Programming and Web Developement",
+            "place": "Life Choices Academy", 
+        },
+        {
+            "id": 2,
+            "year": 2019,
+            "des": "BA in English and Psychology",
+            "place": "Pearson Institute",
+        },
+        {
+            "id": 3,
+            "year": 2018,
+            "des": "Bachelors Pass Matric",
+            "place": "South Peninsula Highschool",
+        }
     ]
 }
