@@ -28,13 +28,13 @@
             "id": 5,
             "title": "Mezaan Davids",
             "photo": "https://i.postimg.cc/nr5SNxdq/meezaan.jpg",
-            "desc": "Caryn is a creative and enthusiastic individual who is new to coding but has been steadily improving. Her positive attitude and willingness to experiment with new ideas have been a valuable asset to our team. Caryn's progress in coding has been steady and impressive. She has a unique perspective and is not afraid to think outside the box. As Caryn's team leader, I have been impressed with her dedication and creativity. She is new to coding, but she has already made significant progress and has shown a real passion for the subject. I have no doubt that she will continue to develop her skills and make valuable contributions to our team."
+            "desc": "Caryn is a creative and enthusiastic individual who is new to coding but has been steadily improving. Her positive attitude and willingness to experiment with new ideas have been a valuable asset to our team. She has a unique perspective and is not afraid to think outside the box. As Caryn's team leader, I have been impressed with her dedication and creativity. I have no doubt that she will continue to develop her skills and make valuable contributions."
         },
         {
             "id": 6,
-            "title": "another",
-            "photo": "https://i.postimg.cc/nr5SNxdq/meezaan.jpg",
-            "desc": "lorem blah blah blah"
+            "title": "Taahirah Ismail",
+            "photo": "https://i.postimg.cc/zBRdD56h/C12-Taahirah-Ismail-1.jpg",
+            "desc": "Caryn is one of the hardest workers I've ever met. Whenever she's struggling with a task, I know it won't be long until she finds a solution. Working with her is delightful, she's such a kind, bubbly, and extremely helpful individual. I'd definitely love to keep working with her in the future."
         }
     ],
     "projects": [
@@ -42,7 +42,7 @@
             "id": 1,
             "name": "CSS practice website",
             "image": "https://i.postimg.cc/Qx0PfSF5/Screenshot-2023-05-10-115957.png",
-            "des": "a description",
+            "des": "To practice the basics of CSS, we had to choose a cartoon character that represented us.",
             "netlify": "https://friendly-faun-30f8e1.netlify.app/",
             "github": "https://github.com/cj-the-owl/CSS-Intro.git"
         },
@@ -50,7 +50,7 @@
             "id": 2,
             "name": "Hulu Website",
             "image": "https://i.postimg.cc/Prm91Tj6/Screenshot-2023-05-12-144800.png",
-            "des": "a description",
+            "des": "This was a follow-along exercise to introduce us to HTML. The CSS was done on our own though.",
             "netlify": "https://delightful-cendol-f68382.netlify.app/",
             "github": "https://github.com/cj-the-owl/Html-Basics.git"
         },
@@ -58,7 +58,7 @@
             "id": 3,
             "name": "JavaScript Calculator",
             "image": "https://i.postimg.cc/bv0TdwfP/Screenshot-2023-07-03-155432.png",
-            "des": "a description",
+            "des": "This was our first Javascript task!",
             "netlify": "https://elegant-bavarois-b34121.netlify.app/",
             "github": "https://github.com/cj-the-owl/js-calculator.git"
         },
@@ -66,7 +66,7 @@
             "id": 4,
             "name": "BMI Calculator",
             "image": "https://i.postimg.cc/fWf61MV6/Screenshot-2023-07-03-155542.png",
-            "des": "a description",
+            "des": "This was our second Javascript task! It was a lot easier than the calculator",
             "netlify": "https://clever-dango-aafd0f.netlify.app/",
             "github": "https://github.com/cj-the-owl/js-bmi-calculator.git"
         },
@@ -74,7 +74,7 @@
             "id": 5,
             "name": "Bootstrap end of module project",
             "image": "https://i.postimg.cc/ZnXYGZRB/Screenshot-2023-07-03-155244.png",
-            "des": "a description",
+            "des": "Our first end of module project was a portfolio using HTML, CSS and Bootstrap.",
             "netlify": "https://zippy-kitsune-077ed6.netlify.app/",
             "github": "https://github.com/cj-the-owl/EOMP-Portfolio.git"
         },
@@ -82,7 +82,7 @@
             "id": 6,
             "name": "JavaScript end of module project",
             "image": "https://i.postimg.cc/yxM06Mdt/Screenshot-2023-07-05-095835.png",
-            "des": "a description",
+            "des": "Our second end of module project was a point of sale website. Mine was a clothing store selling anime-themed clothing.)",
             "netlify": "https://elaborate-marzipan-7d8fa8.netlify.app/",
             "github": " https://github.com/cj-the-owl/EOMP-pos-website.git"
         }
