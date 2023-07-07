@@ -88,24 +88,48 @@
         }
     ],
 
-    "education": [
+    "educations": [
         {
             "id": 1,
             "year": 2023,
             "des": "Programming and Web Developement",
-            "place": "Life Choices Academy", 
+            "place": "Life Choices Academy" 
         },
         {
             "id": 2,
             "year": 2019,
             "des": "BA in English and Psychology",
-            "place": "Pearson Institute",
+            "place": "Pearson Institute"
         },
         {
             "id": 3,
             "year": 2018,
             "des": "Bachelors Pass Matric",
-            "place": "South Peninsula Highschool",
+            "place": "South Peninsula Highschool"
+        }
+    ],
+
+    "experience": [
+        {
+            "id": 1,
+            "place": "Woolworths",
+            "roles": "Till operator, Sales assistant, Click and collect",
+            "des": "My role includes assisting customers at the tills, on the sales floor and processing click and collect orders.",
+            "time": "Currently employed part-time"
+        },
+        {
+            "id": 2,
+            "place": "Crew Bar",
+            "roles": "Bartender, assisting in setting up events",
+            "des": "My role was to assist in getting drinks for customers and assisting in setting up for events that took place. My reason for leaving was because staff, including myself, were underpaid and treated poorly.",
+            "time": "2019-2020"
+        },
+        {
+            "id": 1,
+            "place": "Lace-Up",
+            "roles": "Sales assistant",
+            "des": "My role was to assist customers on the sales floor which included providing information about items we had available, what brands we had available and getting the desired items for the customers",
+            "time": "2018-2019"
         }
     ]
 }
